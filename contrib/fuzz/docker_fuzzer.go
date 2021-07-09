@@ -1,4 +1,4 @@
-// +build gofuzz,!windows
+// +build gofuzz
 
 /*
    Copyright The containerd Authors.
